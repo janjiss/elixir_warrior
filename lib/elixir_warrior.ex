@@ -1,0 +1,2 @@
+defmodule ElixirWarrior do
+end
